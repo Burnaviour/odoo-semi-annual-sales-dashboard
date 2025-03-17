@@ -19,7 +19,7 @@ To see the Semi-Annual Product Sales Dashboard in action,follow these steps:
 3. View interactive charts and performance indicators.
 4. Generate reports and insights for strategic decision-making.
 
-
+![Dashboard](docs/demo.jpeg)
 
 ## Technologies Used
 - **Odoo Framework**
